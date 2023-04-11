@@ -32,7 +32,7 @@ body{
     position: absolute;
     bottom: 0;
     left: 0;
-    background-image: url(/images/pattern-curve.svg);
+    background-image: url(images/pattern-curve.svg);
     background-repeat: no-repeat;
     background-position: bottom left;
     width: 100%;
@@ -70,7 +70,7 @@ body{
     }
 }
 .info__bg{
-    background-image: url(/images/pattern-quotes.svg);
+    background-image: url(images/pattern-quotes.svg);
     background-repeat: no-repeat;
     background-position: center;
     position: absolute;
